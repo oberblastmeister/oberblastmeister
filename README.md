@@ -1,2 +1,1 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oberblastmeister)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberblastmeister)](https://github.com/anuraghazra/github-readme-stats)
+Hi! I'm a 16 year old developer. I love to use rust and lua and I am currently learning haskell. I use neovim as my text editor.
